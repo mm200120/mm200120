@@ -14,6 +14,27 @@ This repository contains my personal academic portfolio and supporting materials
 
 ---
 
+## Selected Projects
+
+### Programming & Data Projects
+- **Energy Consumption Prediction** — Predicts household energy consumption using historical temperature and time data to support load optimisation and energy planning.https://github.com/mm200120/Project-1-Energy-Consumption-Prediction  
+- **Predictive Maintenance Using Machine Learning** — Applies ML to industrial sensor data to forecast equipment failures and reduce downtime.  
+- **Freshwater Withdrawals Analysis System (FWAS)** — Data analysis and visualization tool for freshwater withdrawal trends; suitable for environmental research and policy analysis.  
+- **AI-Powered Water Crisis Prediction System** — Uses World Bank datasets with ML clustering and anomaly detection to identify countries at risk of water stress.
+
+### Engineering Projects
+- **Final Year Project — Plastic Extrusion Machine (BIUST)**  
+  Designed and built a working extrusion system to convert waste plastic into filament for 3D printing. Responsibilities included mechanical design, thermal control, extrusion die design, and prototype validation.
+
+- **Pump Overhaul & Efficiency Upgrade (Debswana)**  
+  Led disassembly, inspection, and reassembly of centrifugal pumps; implemented tuning that improved reliability and efficiency.
+
+- **Centralised Greasing System for Loader Trucks (Orapa Mine)**  
+  Designed and deployed a centralised lubrication system to standardise maintenance and reduce downtime.
+
+- **SCADA Data Analysis & Diagnostics**  
+  Signal review and fault detection using SCADA data; applied MATLAB for trend analysis and basic signal filtering to support maintenance decisions.
+
 ## Academic Profile
 
 **Degree:** BEng, Mechanical & Energy Engineering — Botswana International University of Science & Technology (BIUST) (2020–2025)
@@ -50,29 +71,6 @@ End-to-end mechanical design, heater/thermal control, extrusion calibration and 
 
 **Soft Skills**
 - Technical documentation, teamwork in multidisciplinary teams, problem solving, project delivery.
-
----
-
-## Selected Projects
-
-### Programming & Data Projects
-- **Energy Consumption Prediction** — Predicts household energy consumption using historical temperature and time data to support load optimisation and energy planning.  
-- **Predictive Maintenance Using Machine Learning** — Applies ML to industrial sensor data to forecast equipment failures and reduce downtime.  
-- **Freshwater Withdrawals Analysis System (FWAS)** — Data analysis and visualization tool for freshwater withdrawal trends; suitable for environmental research and policy analysis.  
-- **AI-Powered Water Crisis Prediction System** — Uses World Bank datasets with ML clustering and anomaly detection to identify countries at risk of water stress.
-
-### Engineering Projects
-- **Final Year Project — Plastic Extrusion Machine (BIUST)**  
-  Designed and built a working extrusion system to convert waste plastic into filament for 3D printing. Responsibilities included mechanical design, thermal control, extrusion die design, and prototype validation.
-
-- **Pump Overhaul & Efficiency Upgrade (Debswana)**  
-  Led disassembly, inspection, and reassembly of centrifugal pumps; implemented tuning that improved reliability and efficiency.
-
-- **Centralised Greasing System for Loader Trucks (Orapa Mine)**  
-  Designed and deployed a centralised lubrication system to standardise maintenance and reduce downtime.
-
-- **SCADA Data Analysis & Diagnostics**  
-  Signal review and fault detection using SCADA data; applied MATLAB for trend analysis and basic signal filtering to support maintenance decisions.
 
 ---
 
