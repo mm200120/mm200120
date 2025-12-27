@@ -17,8 +17,8 @@ This repository contains my personal academic portfolio and supporting materials
 ## Selected Projects
 
 ### Programming & Data Projects
-- **Energy Consumption Prediction** — Predicts household energy consumption using historical temperature and time data to support load optimisation and energy planning.https://github.com/mm200120/Project-1-Energy-Consumption-Prediction  
-- **Predictive Maintenance Using Machine Learning** — Applies ML to industrial sensor data to forecast equipment failures and reduce downtime.  
+- **Energy Consumption Prediction** — Predicts household energy consumption using historical temperature and time data to support load optimisation and energy planning. https://github.com/mm200120/Project-1-Energy-Consumption-Prediction  
+- **Predictive Maintenance Using Machine Learning** — Applies ML to industrial sensor data to forecast equipment failures and reduce downtime. https://github.com/mm200120/Project_2_Predictive_Maintenance 
 - **Freshwater Withdrawals Analysis System (FWAS)** — Data analysis and visualization tool for freshwater withdrawal trends; suitable for environmental research and policy analysis.  
 - **AI-Powered Water Crisis Prediction System** — Uses World Bank datasets with ML clustering and anomaly detection to identify countries at risk of water stress.
 
