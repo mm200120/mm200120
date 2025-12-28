@@ -21,7 +21,7 @@ This repository contains my personal academic portfolio and supporting materials
 - **Predictive Maintenance Using Machine Learning** — Applies ML to industrial sensor data to forecast equipment failures and reduce downtime. https://github.com/mm200120/Project_2_Predictive_Maintenance 
 - **Freshwater Withdrawals Analysis System (FWAS)** — Data analysis and visualization tool for freshwater withdrawal trends; suitable for environmental research and policy analysis. https://github.com/mm200120/Freshwater-Withdrawals-Analysis-System
 
-- **AI-Powered Water Crisis Prediction System** — Uses World Bank datasets with ML clustering and anomaly detection to identify countries at risk of water stress.
+- **AI-Powered Water Crisis Prediction System** — Uses World Bank datasets with ML clustering and anomaly detection to identify countries at risk of water stress. https://github.com/mm200120/Developing-System-for-Freshwater-Withdrawals-Analysis/blob/main/readme.md
 
 ### Engineering Projects
 - **Final Year Project — Plastic Extrusion Machine (BIUST)**  
