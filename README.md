@@ -23,7 +23,7 @@ This repository contains my personal academic portfolio and supporting materials
 
 - **AI-Powered Water Crisis Prediction System** — Uses World Bank datasets with ML clustering and anomaly detection to identify countries at risk of water stress. https://github.com/mm200120/Developing-System-for-Freshwater-Withdrawals-Analysis/blob/main/readme.md
   
--**Maatla Workouts** - is a professional and visually polished fitness web application designed to encourage healthier and more active lifestyles. The application is developed using Python with the Flask web framework, a SQLite database for data storage, and HTML, CSS, and JavaScript for the front end. https://github.com/code50/194095445/blob/main/cs50x/finalproject1/maatla_workouts/README.md
+- **Maatla Workouts** - is a professional and visually polished fitness web application designed to encourage healthier and more active lifestyles. The application is developed using Python with the Flask web framework, a SQLite database for data storage, and HTML, CSS, and JavaScript for the front end. https://github.com/code50/194095445/blob/main/cs50x/finalproject1/maatla_workouts/README.md
 - **The Smart Expense Tracker** - is a command-line Python application designed to help users track and manage personal expenses efficiently. The program allows users to record expenses with descriptions, categories, amounts, and dates, store them persistently, and analyze their spending habits. https://github.com/code50/194095445/tree/main/python/final_project
 
 ### Engineering Projects
